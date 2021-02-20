@@ -1,0 +1,13 @@
+C:\Users\Stvn\Desktop\repos\Opposite_number_kata\bin\Debug\netcoreapp3.1\Opposite_number_kata.exe
+C:\Users\Stvn\Desktop\repos\Opposite_number_kata\bin\Debug\netcoreapp3.1\Opposite_number_kata.deps.json
+C:\Users\Stvn\Desktop\repos\Opposite_number_kata\bin\Debug\netcoreapp3.1\Opposite_number_kata.runtimeconfig.json
+C:\Users\Stvn\Desktop\repos\Opposite_number_kata\bin\Debug\netcoreapp3.1\Opposite_number_kata.runtimeconfig.dev.json
+C:\Users\Stvn\Desktop\repos\Opposite_number_kata\bin\Debug\netcoreapp3.1\Opposite_number_kata.dll
+C:\Users\Stvn\Desktop\repos\Opposite_number_kata\bin\Debug\netcoreapp3.1\Opposite_number_kata.pdb
+C:\Users\Stvn\Desktop\repos\Opposite_number_kata\obj\Debug\netcoreapp3.1\Opposite_number_kata.csprojAssemblyReference.cache
+C:\Users\Stvn\Desktop\repos\Opposite_number_kata\obj\Debug\netcoreapp3.1\Opposite_number_kata.AssemblyInfoInputs.cache
+C:\Users\Stvn\Desktop\repos\Opposite_number_kata\obj\Debug\netcoreapp3.1\Opposite_number_kata.AssemblyInfo.cs
+C:\Users\Stvn\Desktop\repos\Opposite_number_kata\obj\Debug\netcoreapp3.1\Opposite_number_kata.csproj.CoreCompileInputs.cache
+C:\Users\Stvn\Desktop\repos\Opposite_number_kata\obj\Debug\netcoreapp3.1\Opposite_number_kata.dll
+C:\Users\Stvn\Desktop\repos\Opposite_number_kata\obj\Debug\netcoreapp3.1\Opposite_number_kata.pdb
+C:\Users\Stvn\Desktop\repos\Opposite_number_kata\obj\Debug\netcoreapp3.1\Opposite_number_kata.genruntimeconfig.cache
